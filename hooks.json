@@ -1,0 +1,7 @@
+[
+    {
+        "id": "pull-web-webhook",
+        "execute-command": "./scripts/redeploy.sh",
+        "command-working-directory": "/var/www"
+    }
+]
